@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: ac417966b747ecb4f80479fb562b2de4
+timeCreated: 1457969470
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cog
+    100002: Cog_001
+    100004: Cog_002
+    100006: Cube_001
+    100008: Cutout
+    100010: //RootNode
+    100012: Screen
+    100014: Screen__Original_
+    100016: Spindle
+    100018: Table
+    100020: Cylinder_002
+    100022: Cylinder_003
+    100024: Tube
+    100026: Tube_001
+    100028: Sphere
+    100030: Sphere_001
+    100032: Sphere_002
+    100034: Sphere_003
+    100036: BezierCurve
+    100038: BezierCurve_001
+    100040: Inner
+    100042: Button1
+    100044: Button2
+    100046: Button3
+    100048: Button4
+    100050: Credits
+    100052: Load
+    100054: New
+    100056: Options
+    100058: Button
+    100060: Button_1
+    100062: Button_2
+    100064: Button_3
+    100066: Button_4
+    100068: Post-it_1
+    100070: Text
+    100072: Button_3_001
+    100074: Cut
+    100076: Sphere_004
+    100078: Sphere_005
+    100080: Options_001
+    100082: Options_002
+    100084: Button_5
+    100086: Button_6
+    100088: Button_7
+    100090: Button_8
+    100092: Circle
+    100094: Circle_001
+    100096: Circle_002
+    100098: Text_001
+    100100: Text_002
+    100102: Text_003
+    400000: Cog
+    400002: Cog_001
+    400004: Cog_002
+    400006: Cube_001
+    400008: Cutout
+    400010: //RootNode
+    400012: Screen
+    400014: Screen__Original_
+    400016: Spindle
+    400018: Table
+    400020: Cylinder_002
+    400022: Cylinder_003
+    400024: Tube
+    400026: Tube_001
+    400028: Sphere
+    400030: Sphere_001
+    400032: Sphere_002
+    400034: Sphere_003
+    400036: BezierCurve
+    400038: BezierCurve_001
+    400040: Inner
+    400042: Button1
+    400044: Button2
+    400046: Button3
+    400048: Button4
+    400050: Credits
+    400052: Load
+    400054: New
+    400056: Options
+    400058: Button
+    400060: Button_1
+    400062: Button_2
+    400064: Button_3
+    400066: Button_4
+    400068: Post-it_1
+    400070: Text
+    400072: Button_3_001
+    400074: Cut
+    400076: Sphere_004
+    400078: Sphere_005
+    400080: Options_001
+    400082: Options_002
+    400084: Button_5
+    400086: Button_6
+    400088: Button_7
+    400090: Button_8
+    400092: Circle
+    400094: Circle_001
+    400096: Circle_002
+    400098: Text_001
+    400100: Text_002
+    400102: Text_003
+    2300000: Cog
+    2300002: Cog_001
+    2300004: Cog_002
+    2300006: Cube_001
+    2300008: Cutout
+    2300010: Screen
+    2300012: Screen__Original_
+    2300014: Spindle
+    2300016: Table
+    2300018: Cylinder_002
+    2300020: Cylinder_003
+    2300022: Tube
+    2300024: Tube_001
+    2300026: Sphere
+    2300028: Sphere_001
+    2300030: Sphere_002
+    2300032: Sphere_003
+    2300034: BezierCurve
+    2300036: BezierCurve_001
+    2300038: Inner
+    2300040: Button1
+    2300042: Button2
+    2300044: Button3
+    2300046: Button4
+    2300048: Credits
+    2300050: Load
+    2300052: New
+    2300054: Options
+    2300056: Button
+    2300058: Button_1
+    2300060: Button_2
+    2300062: Button_3
+    2300064: Button_4
+    2300066: Post-it_1
+    2300068: Text
+    2300070: Button_3_001
+    2300072: Cut
+    2300074: Sphere_004
+    2300076: Sphere_005
+    2300078: Options_001
+    2300080: Options_002
+    2300082: Button_5
+    2300084: Button_6
+    2300086: Button_7
+    2300088: Button_8
+    2300090: Circle
+    2300092: Circle_001
+    2300094: Circle_002
+    2300096: Text_001
+    2300098: Text_002
+    2300100: Text_003
+    3300000: Cog
+    3300002: Cog_001
+    3300004: Cog_002
+    3300006: Cube_001
+    3300008: Cutout
+    3300010: Screen
+    3300012: Screen__Original_
+    3300014: Spindle
+    3300016: Table
+    3300018: Cylinder_002
+    3300020: Cylinder_003
+    3300022: Tube
+    3300024: Tube_001
+    3300026: Sphere
+    3300028: Sphere_001
+    3300030: Sphere_002
+    3300032: Sphere_003
+    3300034: BezierCurve
+    3300036: BezierCurve_001
+    3300038: Inner
+    3300040: Button1
+    3300042: Button2
+    3300044: Button3
+    3300046: Button4
+    3300048: Credits
+    3300050: Load
+    3300052: New
+    3300054: Options
+    3300056: Button
+    3300058: Button_1
+    3300060: Button_2
+    3300062: Button_3
+    3300064: Button_4
+    3300066: Post-it_1
+    3300068: Text
+    3300070: Button_3_001
+    3300072: Cut
+    3300074: Sphere_004
+    3300076: Sphere_005
+    3300078: Options_001
+    3300080: Options_002
+    3300082: Button_5
+    3300084: Button_6
+    3300086: Button_7
+    3300088: Button_8
+    3300090: Circle
+    3300092: Circle_001
+    3300094: Circle_002
+    3300096: Text_001
+    3300098: Text_002
+    3300100: Text_003
+    4300000: Screen__Original_
+    4300002: Screen
+    4300004: Cutout
+    4300006: Table
+    4300008: Cube_001
+    4300010: Cog_002
+    4300012: Cog_001
+    4300014: Cog
+    4300016: Spindle
+    4300018: Tube_001
+    4300020: Tube
+    4300022: Cylinder_003
+    4300024: Cylinder_002
+    4300026: Sphere
+    4300028: Sphere_003
+    4300030: Sphere_002
+    4300032: Sphere_001
+    4300034: BezierCurve
+    4300036: BezierCurve_001
+    4300038: Inner
+    4300040: Button1
+    4300042: Load
+    4300044: Button4
+    4300046: Credits
+    4300048: Button3
+    4300050: Options
+    4300052: Button2
+    4300054: New
+    4300056: Button_4
+    4300058: Button_3
+    4300060: Button_2
+    4300062: Button_1
+    4300064: Button
+    4300066: Post-it_1
+    4300068: Text
+    4300070: Cut
+    4300072: Button_3_001
+    4300074: Sphere_004
+    4300076: Sphere_005
+    4300078: Options_001
+    4300080: Options_002
+    4300082: Button_6
+    4300084: Button_5
+    4300086: Button_7
+    4300088: Button_8
+    4300090: Circle
+    4300092: Circle_002
+    4300094: Circle_001
+    4300096: Text_002
+    4300098: Text_001
+    4300100: Text_003
+    6400000: Cog
+    6400002: Cog_001
+    6400004: Cog_002
+    6400006: Cube_001
+    6400008: Cutout
+    6400010: Cylinder_002
+    6400012: Cylinder_003
+    6400014: Screen
+    6400016: Screen__Original_
+    6400018: Sphere
+    6400020: Sphere_001
+    6400022: Sphere_002
+    6400024: Sphere_003
+    6400026: Spindle
+    6400028: Table
+    6400030: Tube
+    6400032: Tube_001
+    6400034: BezierCurve
+    6400036: BezierCurve_001
+    6400038: Inner
+    6400040: Button1
+    6400042: Button2
+    6400044: Button3
+    6400046: Button4
+    6400048: Credits
+    6400050: Load
+    6400052: New
+    6400054: Options
+    6400056: Button
+    6400058: Button_1
+    6400060: Button_2
+    6400062: Button_3
+    6400064: Button_4
+    6400066: Post-it_1
+    6400068: Text
+    6400070: Button_3_001
+    6400072: Cut
+    6400074: Sphere_004
+    6400076: Sphere_005
+    6400078: Options_001
+    6400080: Options_002
+    6400082: Button_5
+    6400084: Button_6
+    6400086: Button_7
+    6400088: Button_8
+    6400090: Circle
+    6400092: Circle_001
+    6400094: Circle_002
+    6400096: Text_001
+    6400098: Text_002
+    6400100: Text_003
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cut
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere/Sphere_003
+        weight: 1
+      - path: Sphere/Sphere_002
+        weight: 1
+      - path: Sphere/Sphere_001
+        weight: 1
+      - path: Tube_001
+        weight: 1
+      - path: Tube
+        weight: 1
+      - path: Tube/Cylinder_003
+        weight: 1
+      - path: Tube/Cylinder_002
+        weight: 1
+      - path: Screen__Original_
+        weight: 1
+      - path: Screen
+        weight: 1
+      - path: Screen/Cutout
+        weight: 1
+      - path: Table
+        weight: 1
+      - path: Table/Inner
+        weight: 1
+      - path: Table/Inner/Circle
+        weight: 1
+      - path: Table/Inner/Circle/Circle_002
+        weight: 1
+      - path: Table/Inner/Circle/Circle_001
+        weight: 1
+      - path: Table/Inner/Button_6
+        weight: 1
+      - path: Table/Inner/Button_6/Text_002
+        weight: 1
+      - path: Table/Inner/Button_5
+        weight: 1
+      - path: Table/Inner/Button_5/Text_001
+        weight: 1
+      - path: Table/Inner/Button_7
+        weight: 1
+      - path: Table/Inner/Button_7/Text_003
+        weight: 1
+      - path: Table/Inner/Button_8
+        weight: 1
+      - path: Table/Inner/Button_8/Text
+        weight: 1
+      - path: Table/Inner/Button_4
+        weight: 1
+      - path: Table/Inner/Button_4/Credits
+        weight: 1
+      - path: Table/Inner/Button_2
+        weight: 1
+      - path: Table/Inner/Button_2/New
+        weight: 1
+      - path: Table/Inner/Button_1
+        weight: 1
+      - path: Table/Inner/Button_1/Load
+        weight: 1
+      - path: Table/Inner/Button
+        weight: 1
+      - path: Table/Inner/Spindle
+        weight: 1
+      - path: BezierCurve
+        weight: 1
+      - path: BezierCurve/BezierCurve_001
+        weight: 1
+      - path: Sphere_004
+        weight: 1
+      - path: Sphere_005
+        weight: 1
+      - path: Cog
+        weight: 1
+      - path: Options_001
+        weight: 1
+      - path: Options_002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
